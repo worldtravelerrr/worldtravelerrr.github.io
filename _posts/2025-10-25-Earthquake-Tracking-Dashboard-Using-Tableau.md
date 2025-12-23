@@ -5,5 +5,5 @@ image: "/posts/tableau-map-image.png"
 tags: [Tableau, Data Viz]
 ---
 This is a Tableau Dashboard that tracks global Earthquake activity across a 30-day period
-<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/lindsay.aiello/viz/WorldwideEarthquakeTracker/DSIEarthquakeTracker?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '900'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/shared/3Q2XNH4R2?:display_count=n&:origin=viz_share_link?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '900'></iframe>
 
